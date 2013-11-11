@@ -1,0 +1,7 @@
+This page is built on Twitter Bootstrap 2.3.2 documentation can be found at http://getbootstrap.com/2.3.2/
+
+To edit the content you will need to use a plaintext editor. Examples are Notepad on a PC and textedit on a Mac. I would recommend using an HTML editor because it will help keep things sorted. On a Mac I would recommend TextWrangle, it is free and does everything this microsite will need. (http://www.barebones.com/products/textwrangler/) On the Windows side I would recommend using Komodo Edit (http://www.activestate.com/komodo-edit)
+
+To get started open up Index.html. The main content of the website is housed here. Each section is contained within comments telling you what section is what IE: <!-- Content Description --> If you want to make changes to copy within these sections be careful not to edit the tags <p>,<div> </div> etc. Unless you know what you are doing. This file was built to handle minimal edits. The main editable section is the hospital section at the bottom, the logo at the top and the menubar color.
+
+For the hospital section at the bottom you can edit the images by putting them in the img folder and changing the path in the image tag <img src=""> You put the new image URL between the quotes "". The text is pre-formatted. If you want to remove a section it is advised just to delete all the text so the formatting remains. Alternate hospital box sections are commented out. You can make them visible/invisible by adding or deleting the <!-- --> comment tags. 
